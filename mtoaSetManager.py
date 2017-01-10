@@ -1,3 +1,9 @@
+####################################
+# Name: MtoA_Set_Manager           #
+# Version: V1.0                    #
+# Creator: Jackie Liao             #
+####################################
+
 import maya.cmds as mc
 import sys
 import  maya.mel as mel
