@@ -1,8 +1,13 @@
+####################################
+# Name: ID_Group_Manager           #
+# Version: V1.0                    #
+# Author: Jackie Liao              #
+# Latest Update: 01/10/2017        #
+####################################
+
 import sys
 import maya.cmds as mc
 import mtoa.aovs as aovs
-
-
 
 class idGroupManager(object):
 

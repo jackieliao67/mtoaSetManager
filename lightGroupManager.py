@@ -1,3 +1,10 @@
+####################################
+# Name: Light_Group_Manager        #
+# Version: V1.0                    #
+# Author: Jackie Liao              #
+# Latest Update: 01/10/2017        #
+####################################
+
 import maya.cmds as mc
 
 class lightGroupManager(object):
