@@ -5,7 +5,6 @@
 # Latest Update: 01/10/2017        #
 ####################################
 
-
 import maya.cmds as mc
 
 class dispManager(object):
